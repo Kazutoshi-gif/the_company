@@ -6,7 +6,6 @@ if(!$_SESSION['id']){// If the session id is not set
  header("location: loginRedirect.php");
  exit;
 }
-/**************************/
 
 include_once "../classes/user.php";
 
