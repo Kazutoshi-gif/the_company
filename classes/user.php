@@ -83,7 +83,6 @@ class User extends Database{
     }
   }
 
-
   public function deleteUser($userID){
     $sql= "DELETE FROM users WHERE id=$userID";
 

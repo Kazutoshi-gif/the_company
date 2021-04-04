@@ -23,7 +23,8 @@ $userDetails = $user->getUser($userID);//get the information of userid2 from the
 </head>
 <body>
 <!--nav-->
-<nav class="navbar navbar-expand md navbar-dark bg-dark">
+<nav class="navbar
+ navbar-expand md navbar-dark bg-dark">
     <a href="dashboard.php" class="navbar-brand">
       <h1 class="h3">The Company</h1>
     </a>
